@@ -1,6 +1,6 @@
 {
   "devices": [
-    "PT-ECZ1Z3-L4FBJZ",
-    "PT-10RESZ-PJWVE5"
+    { "id": "PT-ECZ1Z3-L4FBJZ", "name": "Admin - Chrome" },
+    { "id": "PT-10RESZ-PJWVE5", "name": "Test Device" }
   ]
 }
